@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         yashamananeproger
 // @namespace    http://tampermonkey.net/
-// @license MIT
+// @license      MIT
 // @version      4.0
 // @description  Добавляет автоматическую вставку шаманских шаблонов на страницу написания личного сообщения (спасибо Древоточцу за код)
 // @match        https://catwar.net/*
 // @updateURL    https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
 // @downloadURL  https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
-// @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/icon1.png
+// @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/leaf.png
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
