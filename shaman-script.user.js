@@ -72,3 +72,5 @@ async function loadTemplates() {
 }
 
 })();
+
+// Я люблю свою луну-шаманку ♥
