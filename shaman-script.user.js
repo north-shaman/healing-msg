@@ -7,6 +7,7 @@
 // @match        https://catwar.net/*
 // @updateURL    
 // @downloadURL  
+// @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/icon.png
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
