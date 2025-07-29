@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         yashamananeproger
+// @author       Шаманы Северного клана
 // @namespace    http://tampermonkey.net/
 // @license      MIT
 // @version      4.1
@@ -8,7 +9,7 @@
 // @match        https://catwar.su/*
 // @updateURL    https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
 // @downloadURL  https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
-// @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/leaf_8384615.png
+// @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/icon_leaf.png
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
