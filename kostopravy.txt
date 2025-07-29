@@ -1,0 +1,16 @@
+[divr=https://i.ibb.co/5MHF4jF/image.png][size=2][bgrf=#403039] [/bgrf][/size][size=1][bgrf=#ffffff] [/bgrf][/size][size=3][bgrf=#403039] [/bgrf][/size][size=18][bgrf=#403039][center][font=Impact][color=#c2bba9]Время ношения костоправа[/color][/font][/center][/bgrf][/size][size=3][bgrf=#403039] [/bgrf][/size][size=1][bgrf=#ffffff] [/bgrf][/size][size=2][bgrf=#403039] [/bgrf][/size]
+[color=black][font=Segoe UI][table=0][tr][td] [/td][td][justify] [b]Под тобой лежит костоправ.[/b] Твоя задача — взять его в рот, надеть на персонажа и [u]зафиксировать время надевания[/u]. Если на твоей клетке несколько костоправов, следует надеть все.
+
+Для надевания костоправа возьми его в рот, выбери действие "Наложить костоправ на место перелома" (оно указывается вместо "съесть") и подтверди его. [/justify][/td][td] [/td][/tr][/table]
+[center][table=#fbf4e9][/center][td][table][/table][table=0][/td][tr][td] [/td][td][center]Время ношения костоправов:
+[size=17][b]24 ч[/b][/size][/center][/td][td] [/td][/tr][/table][center][/table][/center]
+[table=0][tr][td] [/td][td][justify]Через указанное время от [u]времени надевания[/u] костоправы необходимо снять. Для расчёта времени снятия ты можешь воспользоваться [b][url=https://allcalc.ru/node/1972]КАЛЬКУЛЯТОРОМ[/url][/b].
+
+После надевания костоправов следует покинуть Шепчущие покои.[/justify][/td][td] [/td][/tr][/table][/font][/color]
+[size=1][bgrf=#403039] [/bgrf][/size][size=1][bgrf=#ffffff] [/bgrf][/size][size=3][bgrf=#403039] [/bgrf][/size][size=3][bgrf=#403039] [/bgrf][/size][size=1][bgrf=#ffffff] [/bgrf][/size][size=1][bgrf=#403039] [/bgrf][/size]
+[color=black][font=Segoe UI][table=0][tr][td] [/td][td][justify]— Необязательно снимать костоправ(ы) минута в минуту, однако можно это сделать только после указанного времени. Старайся не перенашивать его сильно дольше положенного (более суток), так как в противном случае он может тебя не вылечить;
+— Если здоровье не восстановлено полностью, а процент здоровья равен 90%, то заходить на скалы можно лишь после того, как осмотрит один из шаманов;
+— Если после снятия костоправ остался, следует осведомить об этом шаманов и доставить костыль в Прочную нишу.*
+[img]https://i.ibb.co/zmRV4pk/1.png[/img]
+[size=9][i]* - относить костоправ можно только котам, что достигли возраста 6 лун. При малом возрасте попросите шаманов или помощников ниши забрать его лично. Передавать его другим соклановцам запрещено.[/i][/size][/justify][/td][td] [/td][/tr][/table][/font][/color]
+[size=1][bgrf=#403039] [/bgrf][/size][size=1][bgrf=#ffffff] [/bgrf][/size][size=3][bgrf=#403039] [/bgrf][/size][size=3][bgrf=#403039] [/bgrf][/size][size=1][bgrf=#ffffff] [/bgrf][/size][size=1][bgrf=#403039] [/bgrf][/size][/divr]
