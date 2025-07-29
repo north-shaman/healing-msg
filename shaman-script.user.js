@@ -5,8 +5,8 @@
 // @version      4.0
 // @description  Добавляет автоматическую вставку шаманских шаблонов на страницу написания личного сообщения (спасибо Древоточцу за код)
 // @match        https://catwar.net/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
+// @downloadURL  https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
 // @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/icon.png
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
