@@ -2,9 +2,10 @@
 // @name         yashamananeproger
 // @namespace    http://tampermonkey.net/
 // @license      MIT
-// @version      4.0
+// @version      4.1
 // @description  Добавляет автоматическую вставку шаманских шаблонов на страницу написания личного сообщения (спасибо Древоточцу за код)
 // @match        https://catwar.net/*
+// @match        https://catwar.su/*
 // @updateURL    https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
 // @downloadURL  https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
 // @icon         https://raw.githubusercontent.com/north-shaman/healing-msg/main/leaf.png
@@ -41,7 +42,7 @@
       textarea.value = selectedOption.value;
       subjectInput.value = selectedOption.subject;
     });
-  }, 500);
+  }, 100);
 
 
 const templatesBaseUrl = 'https://raw.githubusercontent.com/north-shaman/healing-msg/main/';
