@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @license      MIT
 // @version      4.1
-// @description  Добавляет автоматическую вставку шаманских шаблонов на страницу написания личного сообщения. Спасибо Древоточцу за создание кода! Лапки к созданию приложили Грёзы Юности и Полуденье.
+// @description  Добавляет автоматическую вставку шаманских шаблонов на страницу написания личного сообщения. Спасибо Древоточцу за создание кода! Лапки к развитию приложили Грёзы Юности и Полуденье.
 // @match        https://catwar.net/*
 // @match        https://catwar.su/*
 // @updateURL    https://github.com/north-shaman/healing-msg/raw/refs/heads/main/shaman-script.user.js
