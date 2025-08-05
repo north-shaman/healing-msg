@@ -53,6 +53,7 @@ const templates = [
   { name: 'Костоправы (под камнем)', file: 'kostopravy-kamen.txt', subject: 'Время ношения костоправа' },
   { name: 'Травы', file: 'travy.txt', subject: 'Лечение' },
   { name: 'Травы (под камнем)', file: 'travy-kamen.txt', subject: 'Лечение' },
+  { name: 'Полученное лечение (раны/утопы)', file: 'rany.txt', subject: 'Полученное лечение' },
   { name: 'Отработка', file: 'otrabotka.txt', subject: 'Лечение (отработка)' }
 ];
 
