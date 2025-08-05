@@ -3,7 +3,7 @@
 // @author       Шаманы Северного клана
 // @namespace    http://tampermonkey.net/
 // @license      MIT
-// @version      4.1
+// @version      4.2
 // @description  Добавляет автоматическую вставку шаманских шаблонов на страницу написания личного сообщения. Спасибо Древоточцу за создание кода! Лапки к развитию приложили Грёзы Юности и Полуденье.
 // @match        https://catwar.net/*
 // @match        https://catwar.su/*
