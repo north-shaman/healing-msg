@@ -373,7 +373,7 @@
     if (settings.enableIdColumn) {
       enableIdColumn();
     }
-  }, 800); // Увеличил задержку для надежности
+  }, 300); // Увеличил задержку для надежности
 
   // MutationObserver для панели управления с debounce
   let panelTimeoutId = null;
