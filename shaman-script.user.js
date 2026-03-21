@@ -302,7 +302,7 @@
       const text = await response.text();
       options.push({
         text: template.name,
-        value: text.replace(/\n/g),
+        value: text.replace(/\n/g, '[br]'),
         subject: template.subject
       });
     }
