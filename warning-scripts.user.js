@@ -3,7 +3,7 @@
 // @author       Шаманы Северного клана
 // @namespace    http://tampermonkey.net/
 // @license      MIT
-// @version      4.3
+// @version      1.0
 // @description  Предупреждения от работников Прочной ниши
 // @match        https://catwar.net/*
 // @match        https://catwar.su/*
